@@ -56,7 +56,7 @@ You have to tell the file where your library resides and which library it is usi
 `gcc exemple/example.c -L. -lft -o exemple.out`
 
 -L takes the path to your library. `.` in this case<br>
--l takes the name of your library. This is the set of characters that come after `lib` in your library name.
+-l takes the name of your library. This is the set of characters that come after `lib` in your library name.<br>
 -o will be the name of the binary to run
 
 That's it. Now run it using `./exemple.out`
