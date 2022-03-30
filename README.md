@@ -43,8 +43,6 @@ To create that library, after downloading/cloning this project, **cd** into the 
 
 You should see a *libft.a* file and some object files (.o).
 
-**WARNING:** `make clean` will delete all your files from your root directory. Do not run it if you're using the `Makefile` file. This is why I added the `Makefile-sample` file.
-
 Now to clean up, call `make clean` and `make fclean` for cleaning all the generate file (.o and .a)
 
 ### How do I use the library?
