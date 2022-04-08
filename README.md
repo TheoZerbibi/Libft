@@ -1,6 +1,6 @@
 # Libft - @42Paris
-[![thzeribi's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1ddp55e003509ld7r8ci33a/project/1620734)](https://github.com/JaeSeoKim/badge42)<br>
-My implementation of some of the Standard C Library functions including some additional ones.
+My implementation of some of the Standard C Library functions including some additional ones.<br>
+[![thzeribi's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1ddp55e003509ld7r8ci33a/project/1620734)](https://github.com/JaeSeoKim/badge42)
 
 ### TOC
 * [What is libft?](#what-is-libft)
@@ -73,7 +73,7 @@ This is a list of my projects that use Libft extensively:
 ## Final note
 
 <img align="center" src="img/project_note.png" alt="Screenshot of the project note" />
-Validate on: 2019-11-15
+Validate on: 2019-11-15<br>
 
 Disclaimer: #README is based on this [README](https://github.com/nickdotht/libft/blob/master/README.md).
 
