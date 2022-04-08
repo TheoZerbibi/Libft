@@ -1,4 +1,5 @@
 # Libft - @42Paris
+[![thzeribi's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1ddp55e003509ld7r8ci33a/project/1620734)](https://github.com/JaeSeoKim/badge42)
 My implementation of some of the Standard C Library functions including some additional ones.
 
 ### TOC
