@@ -48,9 +48,8 @@ Now to clean up, call `make clean` and `make fclean` for cleaning all the genera
 
 ### How do I use the library?
 
-<img align="center" src="img/example.png" alt="Screenshot of the project note" />
-
-I added an example file called **example.c** in example folder, it's using the function **ft_putstr** to print "HELLO GUYS !" to the screen. 
+I added an example file called **example.c** in example folder, it's using the function **ft_putstr** to print "HELLO GUYS !" to the screen.
+<img align="center" src="img/example.png" width="500" height="600" alt="Screenshot of the project note" />
 
 If you try to compile it with gcc using `gcc example.c` you will get an *undefined symbol* error for ft_putstr. 
 
